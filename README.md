@@ -19,6 +19,8 @@ change the `image` property in `body` `recognize_test.js` and run the file.
 
 If matched, you will get a response of 'success', otherwise failure.
 
+Right now, the only people it will match against are, "Brad","Bradley","Julia","Tom"  .   Brad Pitt, Bradley Cooper, Julia Roberts, Tom Cruise
+
 ## Usage
 
 - This project can be used to match the face for identification for controlling home lock system. 
